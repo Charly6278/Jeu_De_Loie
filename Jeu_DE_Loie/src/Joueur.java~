@@ -1,0 +1,6 @@
+class Joueur {
+    String name;
+    int position = 0;
+    int positionA = 0;
+    int nbAttente = 0;
+}
